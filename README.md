@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aliaftab2004/aliaftab2004/main/assets/banner.png" alt="Banner"/>
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Aftab Ali
